@@ -1,5 +1,6 @@
 ### Hi there 👋 I am a beginner Java developer, I am learning a new and interesting profession for myself!
 
+- 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](+79192990553) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](ams32ru@mail.ru)
 
 
 
