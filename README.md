@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am a beginner Java developer, I am learning a new and interesting profession for myself!
+
+
+
+
+
+
 
 <!--
 **ams32ru/ams32ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
